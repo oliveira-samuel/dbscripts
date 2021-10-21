@@ -1,3 +1,4 @@
+### PostgreSQL
 CREATE OR REPLACE FUNCTION financial.sf_entries_insert(
 	p_dt_field1 date,
 	p_id_field2 uuid,
